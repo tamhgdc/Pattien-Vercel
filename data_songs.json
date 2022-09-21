@@ -1,0 +1,53 @@
+{
+    "songs": [
+    {
+      "name": "Chạy về nơi phía anh",
+      "singer": "Khắc Việt",
+      "path": "./songs/ChayVeNoiPhiaAnh-KhacViet-7129688 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/song/2022/02/10/2/a/7/7/1644475457323.jpg",
+      "category_name": "Thư giãn"
+    },
+    {
+      "name": "Có hẹn với thanh xuân",
+      "singer": "MONSTAR",
+      "path": "./songs/cohenvoithanhxuan-MONSTAR-7050201 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/song/2021/07/16/f/4/9/8/1626425507034.jpg",
+      "category_name": "Thư giãn"
+    },
+    {
+      "name": "Yêu Đương Khó Quá Thì Chạy Về Khóc Với Anh",
+      "singer": "ERIK",
+      "path": "./songs/YeuDuongKhoQuaThiChayVeKhocVoiAnh-ERIK-7128950 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/song/2022/01/26/4/e/f/e/1643184497199.jpg",
+      "category_name": "Thư giãn"
+    },
+    {
+      "name": "Nhạc Không Lời Hay - Hòa Tấu",
+      "singer": "Anonymous",
+      "path": "./songs/YeuDuongKhoQuaThiChayVeKhocVoiAnh-ERIK-7128950 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/singer/avatar/2017/09/27/e/0/6/9/1506498059847.jpg",
+      "category_name": "Đọc sách"
+    },
+    {
+      "name": "Nhạc Thư Giãn - Tiếng Nước Chảy - V.A",
+      "singer": "Anonymous",
+      "path": "./songs/NhacThuGianTiengNuocChay-V.A-3651842 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/singer/avatar/2017/09/15/b/8/c/8/1505459363080.jpg",
+      "category_name": "Thiền"
+    },
+    {
+      "name": "White Noise - Tiếng Nước Chảy - V.A",
+      "singer": "Anonymous",
+      "path": "./songs/WhiteNoiseTiengNuocChay-VA-6918398 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg",
+      "category_name": "Thiền"
+    },
+    {
+      "name": "Ba Kể Con Nghe - Guitar",
+      "singer": "Anonymous",
+      "path": "./songs/BaKeConNghe-Guitar-3226063 .mp3",
+      "image": "https://avatar-nct.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717133675.jpg",
+      "category_name": "Đọc sách"
+    }
+  ]
+}
